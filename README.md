@@ -1,6 +1,6 @@
 # Example building a custom Bee Agent
 
-Related blog post for the documentation [TBD]().
+Related blog post for the documentation [Building a Custom Bee Agent in TypeScript](https://suedbroecker.net/2025/01/14/building-a-custom-bee-agent-in-typescript/).
 
 This repository is based on the template for the [Bee Agent Framework](https://github.com/i-am-bee/bee-agent-framework).
 
